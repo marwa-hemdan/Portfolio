@@ -2024,6 +2024,9 @@ ul.actions li {
 ul.actions li:first-child {
 	margin-left: 0;
 }
+ul.social_header li{
+color: gainsboro !important;
+}
 
 /* Box */
 
@@ -2108,8 +2111,22 @@ ul.actions li:first-child {
 .icon.featured:before {
 	font-size: 6em;
 }
-
+.brand-icon{
+	color: orangered !important
+}
 /* Wrappers */
+
+ul.skills-list{
+  list-style-type: none !important;
+  text-align: left !important;
+
+}
+ul.skills-list li{
+	font-size: 1.1em !important;
+	margin-bottom: .5em !important;
+}
+
+
 
 .wrapper {
 	background-image: url("images/bg.png");
@@ -2232,6 +2249,18 @@ ul.actions li:first-child {
 	border-top: solid 0.6em #282828;
 }
 
+.Job-title{
+color: orangered !important;
+font-size: 1.5em !important;
+
+
+}
+.sub_par{
+	font-size: .7em !important;
+	color: black;
+	margin: 0 !important;
+	
+}
 /* Articles */
 
 body>article {
