@@ -2264,6 +2264,16 @@ font-size: 1.5em !important;
 	margin: 0 !important;
 	
 }
+.sub_title{
+	text-align: center !important;
+	font-size:.9em !important;
+}
+.publications li{
+	font-size: 1em !important;
+	margin-bottom: .5em !important;
+	text-align: left !important;
+}
+/* Basic */
 /* Articles */
 
 body>article {
