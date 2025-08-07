@@ -2125,7 +2125,9 @@ ul.skills-list li{
 	font-size: 1.1em !important;
 	margin-bottom: .5em !important;
 }
-
+.contact-info{
+	text-align: center !important;
+}
 
 
 .wrapper {
